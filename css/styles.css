@@ -46,19 +46,24 @@ body {
   justify-content: center;
   max-width: 90px;
   max-height: 90px;
-  border: 6px solid grey;
+  /* border: 6px solid grey; */
   box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
   transition: all 0.8s ease-in-out;
 }
 
 /* Sample CSS for the WHY word */
 
-.whyWLetter {
+/* revisit this letter. italic style needs to be mirrored */
+.whyWLetter  {
   font-size: 72px;
   font-weight: bold;
+  border: 6px solid rgb(100, 182, 127);
   color: aqua;
+  background-color: rgb(180, 166, 224);
   text-decoration: underline;
-  text-transform: uppercase;
+  font-style: italic;
+  transform: skewX(-20deg);
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
@@ -69,6 +74,8 @@ body {
   text-decoration: overline;
   text-transform: lowercase;
   font-family: 'Ceviche One', sans-serif;
+  border: 6px solid rgb(135, 222, 37);
+  background-color: rgb(236, 151, 129)
 }
 
 .whyYLetter {
