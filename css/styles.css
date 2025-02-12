@@ -52,8 +52,10 @@ body {
 
 /* FONT STYLES: */
 .dotted-text {font-family: 'Raleway Dots', sans-serif;}
-.over-line {text-decoration: overline;}
 
+/* TEXT-DECORATIONS */
+.over-line {text-decoration: overline;}
+.under-line {text-decoration: underline;}
 
 /* revisit this letter. italic style needs to be mirrored */
 .whyWLetter  {
@@ -62,7 +64,6 @@ body {
   border: 6px solid rgb(100, 182, 127);
   color: aqua;
   background-color: rgb(180, 166, 224);
-  text-decoration: underline;
   font-style: italic;
   transform: skewX(-20deg);
   text-transform: lowercase;
