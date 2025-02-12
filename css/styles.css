@@ -38,6 +38,7 @@ body {
 }
 
 .word > span {
+  border: 6px solid gray;
   position: relative;
   padding: 20px 30px;
   width: max-content;
@@ -50,10 +51,11 @@ body {
   transition: all 0.8s ease-in-out;
 }
 
-/* FONT STYLES: */
+/* FONT FAMILIES: */
 .piazolla-font {font-family: 'Piazolla', sans-serif;}
 .dotted-font {font-family: 'Raleway Dots', sans-serif;}
 .ceviche-font {font-family: 'Ceviche One', sans-serif;}
+.montserrat-font {font-family: "Montserrat", sans-serif;}
 
 /* TEXT-DECORATIONS */
 .over-line {text-decoration: overline;}
@@ -62,6 +64,13 @@ body {
 
 /* TEXT-TRANSFORMATIONS */
 .uppercase {text-transform: uppercase;}
+
+/* FONT-WEIGHTS */
+.bold-text{font-weight: bold;}
+.normal-text{font-weight: normal;}
+.thin-text{font-weight: 400;}
+.thick-text{font-weight: 700;}
+
 
 /* revisit this letter. italic style needs to be mirrored */
 .whyWLetter  {
