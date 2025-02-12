@@ -60,6 +60,9 @@ body {
 .under-line {text-decoration: underline;}
 .line-through {text-decoration: line-through;}
 
+/* TEXT-TRANSFORMATIONS */
+.uppercase {text-transform: uppercase;}
+
 /* revisit this letter. italic style needs to be mirrored */
 .whyWLetter  {
   font-size: 72px;
