@@ -67,7 +67,8 @@ body {
 /* FONT-WEIGHTS */
 .bold-text{font-weight: bold;}
 .normal-text{font-weight: normal;}
-.thin-text{font-weight: 400;}
+.standard-thick-text{font-weight: 400;}
+.thin-text{font-weight: 200;}
 .thick-text{font-weight: 700;}
 
 
@@ -115,7 +116,6 @@ body {
 
 .didILetter {
   border: 6px solid rgb(37, 112, 187);
-
   background-color: rgb(184, 143, 189);
   font-size: 45px;
 }
@@ -129,12 +129,24 @@ body {
 /* THE word */
 
 .theTLetter {
+  font-size: 45px;
+  border: 6px solid rgb(105, 112, 228);
+  color: rgb(124, 63, 193);
+  background-color: rgb(209, 208, 105);
 }
 
 .theHLetter {
+  font-size: 40px;
+  border: 6px solid rgb(79, 202, 204);
+  color: greenyellow;
+  background-color: rgb(94, 230, 164);
 }
 
 .theELetter {
+  font-size: 40px;
+  border: 6px solid rgb(134, 127, 83);
+  color: rgb(230, 27, 173);
+  background-color: rgb(121, 148, 230);
 }
 
 /* FRONT-END word */
