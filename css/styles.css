@@ -51,7 +51,9 @@ body {
 }
 
 /* FONT STYLES: */
-.dotted-text {font-family: 'Raleway Dots', sans-serif;}
+.piazolla-font {font-family: 'Piazolla', sans-serif;}
+.dotted-font {font-family: 'Raleway Dots', sans-serif;}
+.ceviche-font {font-family: 'Ceviche One', sans-serif;}
 
 /* TEXT-DECORATIONS */
 .over-line {text-decoration: overline;}
@@ -68,7 +70,6 @@ body {
   font-style: italic;
   transform: skewX(-20deg);
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
 }
 
 .whyHLetter {
@@ -77,7 +78,6 @@ body {
   color: darkgoldenrod;
   
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
   border: 6px solid rgb(135, 222, 37);
   background-color: rgb(236, 151, 129)
 }
