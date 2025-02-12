@@ -20,7 +20,6 @@ body {
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 20px;
   background-color: #282a56;
 }
 
@@ -35,10 +34,10 @@ body {
   max-width: max-content;
   display: flex;
   gap: 20px;
+  font-size: 20px;
 }
 
 .word > span {
-  border: 6px solid gray;
   position: relative;
   padding: 20px 30px;
   width: max-content;
@@ -81,7 +80,6 @@ body {
   background-color: rgb(180, 166, 224);
   font-style: italic;
   transform: skewX(-20deg);
-  text-transform: lowercase;
 }
 
 .whyHLetter {
@@ -89,7 +87,6 @@ body {
   font-weight: bold;
   color: darkgoldenrod;
   
-  text-transform: lowercase;
   border: 6px solid rgb(135, 222, 37);
   background-color: rgb(236, 151, 129)
 }
@@ -99,12 +96,15 @@ body {
   font-weight: normal;
   color: coral;
   text-decoration: none;
-  text-transform: lowercase;
   border: 6px solid rgb(138, 135, 135);
   background-color: rgb(59, 222, 37);
 }
 
 /* DID word */
+
+.didILetter, .didDTwoLetter {
+  color: rgb(152, 63, 66);
+}
 
 .didDLetter {
   border: 6px solid rgb(180, 166, 224);
@@ -114,9 +114,16 @@ body {
 }
 
 .didILetter {
+  border: 6px solid rgb(37, 112, 187);
+
+  background-color: rgb(184, 143, 189);
+  font-size: 45px;
 }
 
 .didDTwoLetter {
+  font-size: 35px;
+  border: 6px solid rgb(214, 7, 7);
+  background-color: rgb(164, 106, 202);
 }
 
 /* THE word */
