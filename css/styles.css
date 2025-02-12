@@ -46,7 +46,6 @@ body {
   justify-content: center;
   max-width: 90px;
   max-height: 90px;
-  /* border: 6px solid grey; */
   box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
   transition: all 0.8s ease-in-out;
 }
@@ -83,8 +82,10 @@ body {
   font-weight: normal;
   color: coral;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-family: 'Raleway Dots', sans-serif;
+  border: 6px solid rgb(138, 135, 135);
+  background-color: rgb(59, 222, 37);
 }
 
 /* DID word */
