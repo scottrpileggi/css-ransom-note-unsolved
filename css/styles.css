@@ -378,6 +378,7 @@ body {
 /* BECAUSE word */
 
 .becauseBLetter {
+
 }
 .becauseELetter {
 }
@@ -486,10 +487,14 @@ body {
 .hyphen {
   font-size: 40px;
   border: 6px solid rgb(117, 60, 202);
-  color: rgb(178, 236, 103);
+  color: rgb(236, 116, 103);
   background-color: rgb(130, 187, 30);
 }
 .exclamation-mark {
 }
 .question-mark {
+  font-size: 40px;
+  border: 6px solid rgb(223, 200, 106);
+  color: rgb(137, 72, 64);
+  background-color: rgb(90, 99, 37);
 }
