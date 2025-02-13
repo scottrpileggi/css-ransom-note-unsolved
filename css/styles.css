@@ -281,15 +281,27 @@ body {
 
 .takeTLetter {
   font-size: 40px;
-  border: 6px solid rgb(220, 226, 165);
-  color: rgb(114, 64, 222);
-  background-color: rgb(118, 161, 143);
+  border: 6px solid rgb(215, 185, 244);
+  color: rgb(92, 71, 209);
+  background-color: rgb(141, 124, 228);
 }
 .takeALetter {
+  font-size: 40px;
+  border: 6px solid rgb(221, 173, 41);
+  color: rgb(214, 55, 223);
+  background-color: rgb(124, 16, 213);
 }
 .takeKLetter {
+  font-size: 45px;
+  border: 6px solid rgb(119, 115, 105);
+  color: rgb(109, 99, 65);
+  background-color: rgb(216, 57, 210);
 }
 .takeELetter {
+  font-size: 40px;
+  border: 6px solid rgb(119, 115, 105);
+  color: rgb(194, 156, 229);
+  background-color: rgb(127, 49, 228);
 }
 
 /* UP word */
