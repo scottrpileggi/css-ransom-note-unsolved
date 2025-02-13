@@ -212,32 +212,78 @@ body {
   background-color: rgb(201, 0, 174);
   padding-bottom: 42px;
 }
+#frontendDLetter {
+  padding-bottom: 42px;
+}
 
 
 /* DEVELOPER word */
 
 .developerDLetter {
+  font-size: 40px;
+  border: 6px solid rgb(72, 176, 196);
+  color: rgba(155, 158, 154, 0.729);
+  background-color: rgb(135, 219, 222);
 }
-.developerELetter {
+#developerELetter {
+  font-size: 40px;
+  border: 6px solid rgb(191, 151, 210);
+  color: rgba(137, 124, 150, 0.798);
+  background-color: rgb(148, 63, 198);
+  padding-bottom: 42px
 }
+
 .developerVLetter {
+  font-size: 37px;
+  border: 6px solid rgb(255, 0, 98);
+  color: rgb(247, 115, 199);
+  background-color: rgb(161, 107, 53);
 }
+
 .developerETwoLetter {
+  font-size: 35px;
+  border: 6px solid rgb(218, 143, 24);
+  color: rgb(35, 114, 73);
+  background-color: rgb(124, 198, 167);
 }
 .developerLLetter {
+  font-size: 40px;
+  border: 6px solid rgb(143, 206, 199);
+  color: rgb(170, 117, 141);
+  background-color: rgb(106, 107, 104);
 }
 .developerOLetter {
+  border: 6px solid rgb(67, 0, 0);
+  font-size: 40px;
+  color: rgb(76, 206, 130);
+  background-color: rgb(33, 151, 114);
 }
 .developerPLetter {
+  font-size: 40px;
+  border: 6px solid rgb(47, 181, 32);
+  color: rgb(207, 155, 244);
+  background-color: rgb(156, 221, 99);
 }
 .developerEThreeLetter {
+  font-size: 35px;
+  border: 6px solid rgb(205, 223, 92);
+  color: rgb(106, 244, 147);
+  background-color: rgb(114, 64, 222);
 }
 .developerRLetter {
+  font-size: 40px;
+  border: 6px solid rgb(220, 226, 165);
+  color: rgb(114, 64, 222);
+  background-color: rgb(118, 161, 143);
 }
 
 /* TAKE word */
 
 .takeTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(220, 226, 165);
+  color: rgb(114, 64, 222);
+  background-color: rgb(118, 161, 143);
 }
 .takeALetter {
 }
