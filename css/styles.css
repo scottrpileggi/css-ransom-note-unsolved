@@ -152,28 +152,67 @@ body {
 /* FRONT-END word */
 
 .frontendFLetter {
+  font-size: 35px;
+  border: 6px solid rgb(121, 230, 152);
+  color: rgb(96, 31, 134);
 }
 
 .frontendRLetter {
+  font-size: 35px;
+  border: 6px solid rgb(145, 201, 115);
+  color: rgb(62, 111, 27);
+  background-color: rgb(160, 81, 176);
+}
+#frontendOLetter {  
+  padding-top: 30px;
+  font-size: 40px;
+  border: 6px solid rgb(215, 195, 93);
+  color: rgb(29, 104, 93);
+  background-color: rgb(202, 200, 128);
 }
 
-.frontendOLetter {
-}
+
+
+
 
 .frontendNLetter {
+  font-size: 35px;
+  border: 6px solid rgb(31, 159, 134);
+  color: rgb(96, 81, 187);
+  background-color: rgb(237, 235, 182);
+  text-decoration: overline;
 }
 
 .frontendTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(205, 131, 107);
+  color: rgb(70, 51, 196);
+  background-color: rgb(221, 81, 39);
 }
 
 .frontendELetter {
+  font-size: 40px;
+  border: 6px solid rgb(204, 244, 103);
+  color: rgb(173, 166, 131);
+  background-color: rgb(35, 17, 198);
 }
 
 .frontendNTwoLetter {
+  font-size: 35px;
+  border: 6px solid rgb(15, 151, 236);
+  color: rgb(61, 218, 218);
+  background-color: rgb(144, 11, 11);
+  text-decoration: overline;
 }
 
 .frontendDLetter {
+  font-size: 40px;
+  border: 6px solid rgb(227, 235, 85);
+  color: rgb(128, 161, 197);
+  background-color: rgb(201, 0, 174);
+  padding-bottom: 42px;
 }
+
 
 /* DEVELOPER word */
 
@@ -344,6 +383,10 @@ body {
 /* SYMBOLS */
 
 .hyphen {
+  font-size: 40px;
+  border: 6px solid rgb(117, 60, 202);
+  color: rgb(178, 236, 103);
+  background-color: rgb(130, 187, 30);
 }
 .exclamation-mark {
 }
