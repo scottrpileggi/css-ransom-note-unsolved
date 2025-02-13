@@ -307,8 +307,16 @@ body {
 /* UP word */
 
 .upULetter {
+  font-size: 40px;
+  border: 6px solid rgb(136, 75, 226);
+  color: rgb(103, 231, 236);
+  background-color: rgb(176, 47, 212);
 }
 .upPLetter {
+  font-size: 40px;
+  border: 6px solid rgb(208, 166, 124);
+  color: rgb(163, 103, 236);
+  background-color: rgb(220, 147, 205);
 }
 
 /* GARDENING word */
