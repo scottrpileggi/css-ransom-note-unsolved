@@ -322,22 +322,57 @@ body {
 /* GARDENING word */
 
 .gardeningGLetter {
+  font-size: 40px;
+  border: 6px solid rgb(43, 73, 171);
+  color: rgb(39, 120, 136);
 }
 .gardeningALetter {
+  font-size: 40px;
+  border: 6px solid rgb(225, 117, 191);
+  color: rgb(233, 35, 180);
+  background-color: rgb(147, 199, 220);
 }
 .gardeningRLetter {
+  font-size: 40px;
+  border: 6px solid rgb(248, 211, 63);
+  color: rgb(241, 142, 55);
+  background-color: rgb(147, 209, 220);
 }
 .gardeningDLetter {
+  font-size: 40px;
+  border: 6px solid rgb(248, 245, 63);
+  color: red;
+  background-color: rgb(162, 125, 197);
 }
 .gardeningELetter {
+  font-size: 40px;
+  border: 6px solid rgb(98, 218, 85);
+  color: yellow;
+  background-color: rgb(38, 253, 0);
 }
 .gardeningNLetter {
+  font-size: 50px;
+  border: 6px solid rgb(233, 136, 101);
+  color: rgb(225, 0, 255);
+  background-color: rgb(198, 170, 219);
 }
 .gardeningILetter {
+  font-size: 40px;
+  border: 6px solid rgb(76, 220, 172);
+  color: rgb(225, 0, 255);
+  background-color: rgb(151, 204, 231);
 }
 .gardeningNTwoLetter {
+  font-size: 40px;
+  border: 6px solid rgb(62, 239, 100);
+  color: rgb(244, 220, 242);
+  background-color: rgb(198, 187, 186);
 }
 .gardeningGTwoLetter {
+  font-size: 40px;
+  border: 6px solid rgb(179, 133, 77);
+  color: rgb(143, 143, 143);
+  background-color: rgb(55, 123, 240);
 }
 
 /* BECAUSE word */
