@@ -613,16 +613,40 @@ body {
 /* SKILLS word */
 
 .skillsSLetter {
+  font-size: 40px;
+  border: 6px solid rgb(79, 172, 124);
+  color: gold;
+  background-color: rgb(86, 130, 186);
 }
 .skillsKLetter {
+  font-size: 40px;
+  border: 6px solid hotpink;
+  color: rgb(255, 0, 85);
+  background-color: rgb(223, 199, 146);
 }
 .skillsILetter {
+  font-size: 40px;
+  border: 6px solid rgb(175, 138, 225);
+  color: rgb(175, 138, 225);
+  background-color: rgb(192, 117, 32);
 }
 .skillsLLetter {
+  font-size: 40px;
+  border: 6px solid rgb(108, 141, 175);
+  color: rgb(72, 189, 204);
+  background-color: rgb(130, 224, 200);
 }
 .skillsLTwoLetter {
+  font-size: 40px;
+  border: 6px solid rgb(170, 162, 220);
+  color: gold;
+  background-color: rgb(137, 229, 25)
 }
 .skillsSTwoLetter {
+  font-size: 45px;
+  border: 6px solid rgb(63, 231, 175);
+  color: rgb(73, 146, 214);
+  background-color: rgb(75, 34, 180)
 }
 
 /* SYMBOLS */
@@ -634,6 +658,10 @@ body {
   background-color: rgb(130, 187, 30);
 }
 .exclamation-mark {
+  font-size: 40px;
+  border: 6px solid rgb(232, 181, 170);
+  color: white;
+  background-color: rgb(189, 41, 212);
 }
 .question-mark {
   font-size: 40px;
