@@ -423,27 +423,70 @@ body {
 /* THEY word */
 
 .theyTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(185, 225, 168);
+  color: rgb(131, 192, 118);
+  background-color: rgb(132, 227, 152);
+
 }
 .theyHLetter {
+  font-size: 40px;
+  border: 6px solid rgb(142, 65, 80);
+  color: rgb(66, 224, 31);
+  background-color: rgb(168, 62, 95);
 }
 .theyELetter {
+  font-size: 40px;
+  border: 6px solid rgb(39, 38, 101);
+  color: rgb(224, 89, 40);
+  background-color: rgb(204, 15, 225);
 }
 .theyYLetter {
+  font-size: 40px;
+  border: 6px solid rgb(174, 48, 212);
+  color: rgb(78, 170, 236);
+  background-color: rgb(149, 221, 94);
 }
 
 /* WANTED word */
 
 .wantedWLetter {
+  font-size: 40px;
+  border: 6px solid rgb(47, 123, 57);
+  color: white;
+  background-color: rgb(219, 211, 255);
+  font-weight: 200;
 }
 .wantedALetter {
+  font-size: 40px;
+  border: 6px solid rgb(20, 15, 74);
+  color: rgb(20, 15, 74);
+  background-color: rgb(197, 243, 159)
 }
 .wantedNLetter {
+  font-size: 45px;
+  border: 6px solid rgb(239, 100, 242);
+  color: rgb(179, 69, 74);
+  background-color: rgb(238, 2, 255)
 }
 .wantedTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(187, 105, 134);
+  color: rgb(247, 228, 155);
+  background-color: rgb(147, 208, 164)
 }
 .wantedELetter {
+  font-size: 40px;
+  border: 6px solid rgb(72, 94, 194);
+  color: rgb(140, 110, 58);
+  background-color: rgb(219, 205, 195)
 }
 .wantedDLetter {
+  font-size: 40px;
+  border: 6px solid rgb(255, 218, 245);
+  color: rgb(78, 253, 110);
+  background-color: rgb(216, 61, 255)
+
 }
 
 /* TO word */
