@@ -378,19 +378,46 @@ body {
 /* BECAUSE word */
 
 .becauseBLetter {
-
+  font-size: 40px;
+  border: 6px solid rgb(156, 71, 32);
+  color: rgb(255, 43, 213);
+  background-color: rgb(184, 217, 75);
 }
 .becauseELetter {
+  font-size: 40px;
+  border: 6px solid rgb(18, 17, 121);
+  color: rgb(18, 17, 121);
+  background-color: rgb(164, 175, 45);
 }
 .becauseCLetter {
+  font-size: 40px;
+  border: 6px solid rgb(144, 144, 152);
+  color: rgb(57, 136, 56);
+  background-color: rgb(70, 178, 218);
 }
 .becauseALetter {
+  font-size: 40px;
+  border: 6px solid rgb(122, 255, 222);
+  color: rgb(184, 63, 195);
+  background-color: rgb(191, 74, 38);
 }
 .becauseULetter {
+  font-size: 40px;
+  border: 6px solid rgb(203, 69, 21);
+  color: rgb(43, 48, 181);
+  background-color: rgb(69, 70, 36);
 }
 .becauseSLetter {
+  font-size: 40px;
+  border: 6px solid rgb(34, 226, 28);
+  color: rgb(141, 61, 56);
+  background-color: rgb(35, 51, 92);
 }
 .becauseETwoLetter {
+  font-size: 40px;
+  border: 6px solid rgb(34, 226, 28);
+  color: white;
+  background-color: rgb(138, 40, 180);
 }
 
 /* THEY word */
