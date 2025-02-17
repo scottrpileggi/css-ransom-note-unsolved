@@ -486,55 +486,128 @@ body {
   border: 6px solid rgb(255, 218, 245);
   color: rgb(78, 253, 110);
   background-color: rgb(216, 61, 255)
-
 }
 
 /* TO word */
 
 .toTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(244, 26, 255);
+  color: rgb(78, 253, 168);
+  background-color: rgb(216, 168, 227)
 }
 .toOLetter {
+  font-size: 40px;
+  border: 6px solid rgb(222, 101, 228);
+  color: rgb(193, 118, 99);
+  background-color: rgb(240, 166, 182)
 }
 
 /* IMPROVE word */
 
 .improveILetter {
+  font-size: 40px;
+  border: 6px solid rgb(234, 226, 67);
+  color: rgb(99, 207, 191);
+  background-color: rgb(93, 69, 228)
 }
 .improveMLetter {
+  font-size: 40px;
+  border: 6px solid red;
+  color: rgb(237, 221, 80);
+  background-color: rgb(226, 205, 112);
 }
 .improvePLetter {
+  font-size: 40px;
+  border: 6px solid rgb(255, 130, 52);
+  color: yellow;
+  background-color: rgb(232, 37, 173);
 }
 .improveRLetter {
+  font-size: 40px;
+  border: 6px solid rgb(255, 21, 232);
+  color: rgb(199, 117, 224);
+  background-color: rgb(138, 70, 220);
 }
 .improveOLetter {
+  font-size: 40px;
+  border: 6px solid rgb(20, 112, 127);
+  color: rgb(55, 34, 147);
+  background-color: rgb(67, 148, 206);
 }
 .improveVLetter {
+  font-size: 40px;
+  border: 6px solid rgb(119, 90, 186);
+  color: rgb(219, 141, 110);
+  background-color: rgb(191, 187, 223);
 }
 .improveELetter {
+  font-size: 40px;
+  border: 6px solid rgb(21, 255, 154);
+  color: rgb(112, 93, 217);
+  background-color: rgb(85, 70, 220);
 }
 
 /* THEIR word */
 
 .theirTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(237, 179, 165);
+  color: white;
+  background-color: rgb(124, 190, 191);
 }
 .theirHLetter {
+  font-size: 40px;
+  border: 6px solid rgb(143, 87, 73);
+  color: white;
+  background-color: rgb(190, 19, 85);
 }
+
 .theirELetter {
+  font-size: 40px;
+  border: 6px solid rgb(231, 79, 221);
+  color: rgb(234, 168, 38);
+  background-color: rgb(69, 175, 74);
 }
 .theirILetter {
+  font-size: 45px;
+  border: 6px solid rgb(82, 46, 180);
+  color: white;
+  background-color: rgb(120, 57, 179);
 }
 .theirRLetter {
+  font-size: 40px;
+  border: 6px solid rgb(131, 25, 225);
+  color: rgb(211, 202, 158);
+  background-color: rgb(186, 0, 0);
 }
 
 /* ROOT word */
 
 .rootRLetter {
+  font-size: 40px;
+  border: 6px solid rgb(38, 180, 54);
+  color: rgb(196, 213, 94);
+  background-color: rgb(23, 19, 96);
 }
 .rootOLetter {
+  font-size: 40px;
+  border: 6px solid rgb(211, 177, 223);
+  color: rgb(39, 141, 48);
+  background-color: gold;
 }
 .rootOTwoLetter {
+  font-size: 40px;
+  border: 6px solid rgb(120, 237, 138);
+  color: rgb(43, 15, 15);
+  background-color: rgb(221, 228, 113);
+
 }
 .rootTLetter {
+  font-size: 40px;
+  border: 6px solid rgb(150, 78, 121);
+  color: rgb(117, 149, 190);
+  background-color: rgb(118, 151, 35);
 }
 
 /* SKILLS word */
