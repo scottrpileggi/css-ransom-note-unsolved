@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
 * {
+  font-size: 40px;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -136,14 +137,12 @@ body {
 }
 
 .theHLetter {
-  font-size: 40px;
   border: 6px solid rgb(79, 202, 204);
   color: greenyellow;
   background-color: rgb(94, 230, 164);
 }
 
 .theELetter {
-  font-size: 40px;
   border: 6px solid rgb(134, 127, 83);
   color: rgb(230, 27, 173);
   background-color: rgb(121, 148, 230);
@@ -165,7 +164,6 @@ body {
 }
 #frontendOLetter {  
   padding-top: 30px;
-  font-size: 40px;
   border: 6px solid rgb(215, 195, 93);
   color: rgb(29, 104, 93);
   background-color: rgb(202, 200, 128);
@@ -184,14 +182,12 @@ body {
 }
 
 .frontendTLetter {
-  font-size: 40px;
   border: 6px solid rgb(205, 131, 107);
   color: rgb(70, 51, 196);
   background-color: rgb(221, 81, 39);
 }
 
 .frontendELetter {
-  font-size: 40px;
   border: 6px solid rgb(204, 244, 103);
   color: rgb(173, 166, 131);
   background-color: rgb(35, 17, 198);
@@ -206,7 +202,6 @@ body {
 }
 
 .frontendDLetter {
-  font-size: 40px;
   border: 6px solid rgb(227, 235, 85);
   color: rgb(128, 161, 197);
   background-color: rgb(201, 0, 174);
@@ -220,13 +215,11 @@ body {
 /* DEVELOPER word */
 
 .developerDLetter {
-  font-size: 40px;
   border: 6px solid rgb(72, 176, 196);
   color: rgba(155, 158, 154, 0.729);
   background-color: rgb(135, 219, 222);
 }
 #developerELetter {
-  font-size: 40px;
   border: 6px solid rgb(191, 151, 210);
   color: rgba(137, 124, 150, 0.798);
   background-color: rgb(148, 63, 198);
@@ -247,19 +240,16 @@ body {
   background-color: rgb(124, 198, 167);
 }
 .developerLLetter {
-  font-size: 40px;
   border: 6px solid rgb(143, 206, 199);
   color: rgb(170, 117, 141);
   background-color: rgb(106, 107, 104);
 }
 .developerOLetter {
   border: 6px solid rgb(67, 0, 0);
-  font-size: 40px;
   color: rgb(76, 206, 130);
   background-color: rgb(33, 151, 114);
 }
 .developerPLetter {
-  font-size: 40px;
   border: 6px solid rgb(47, 181, 32);
   color: rgb(207, 155, 244);
   background-color: rgb(156, 221, 99);
@@ -271,7 +261,6 @@ body {
   background-color: rgb(114, 64, 222);
 }
 .developerRLetter {
-  font-size: 40px;
   border: 6px solid rgb(220, 226, 165);
   color: rgb(114, 64, 222);
   background-color: rgb(118, 161, 143);
@@ -280,13 +269,11 @@ body {
 /* TAKE word */
 
 .takeTLetter {
-  font-size: 40px;
   border: 6px solid rgb(215, 185, 244);
   color: rgb(92, 71, 209);
   background-color: rgb(141, 124, 228);
 }
 .takeALetter {
-  font-size: 40px;
   border: 6px solid rgb(221, 173, 41);
   color: rgb(214, 55, 223);
   background-color: rgb(124, 16, 213);
@@ -298,7 +285,6 @@ body {
   background-color: rgb(216, 57, 210);
 }
 .takeELetter {
-  font-size: 40px;
   border: 6px solid rgb(119, 115, 105);
   color: rgb(194, 156, 229);
   background-color: rgb(127, 49, 228);
@@ -307,13 +293,11 @@ body {
 /* UP word */
 
 .upULetter {
-  font-size: 40px;
   border: 6px solid rgb(136, 75, 226);
   color: rgb(103, 231, 236);
   background-color: rgb(176, 47, 212);
 }
 .upPLetter {
-  font-size: 40px;
   border: 6px solid rgb(208, 166, 124);
   color: rgb(163, 103, 236);
   background-color: rgb(220, 147, 205);
@@ -322,30 +306,25 @@ body {
 /* GARDENING word */
 
 .gardeningGLetter {
-  font-size: 40px;
   border: 6px solid rgb(43, 73, 171);
   color: rgb(39, 120, 136);
 }
 .gardeningALetter {
-  font-size: 40px;
   border: 6px solid rgb(225, 117, 191);
   color: rgb(233, 35, 180);
   background-color: rgb(147, 199, 220);
 }
 .gardeningRLetter {
-  font-size: 40px;
   border: 6px solid rgb(248, 211, 63);
   color: rgb(241, 142, 55);
   background-color: rgb(147, 209, 220);
 }
 .gardeningDLetter {
-  font-size: 40px;
   border: 6px solid rgb(248, 245, 63);
   color: red;
   background-color: rgb(162, 125, 197);
 }
 .gardeningELetter {
-  font-size: 40px;
   border: 6px solid rgb(98, 218, 85);
   color: yellow;
   background-color: rgb(38, 253, 0);
@@ -357,19 +336,16 @@ body {
   background-color: rgb(198, 170, 219);
 }
 .gardeningILetter {
-  font-size: 40px;
   border: 6px solid rgb(76, 220, 172);
   color: rgb(225, 0, 255);
   background-color: rgb(151, 204, 231);
 }
 .gardeningNTwoLetter {
-  font-size: 40px;
   border: 6px solid rgb(62, 239, 100);
   color: rgb(244, 220, 242);
   background-color: rgb(198, 187, 186);
 }
 .gardeningGTwoLetter {
-  font-size: 40px;
   border: 6px solid rgb(179, 133, 77);
   color: rgb(143, 143, 143);
   background-color: rgb(55, 123, 240);
@@ -378,43 +354,36 @@ body {
 /* BECAUSE word */
 
 .becauseBLetter {
-  font-size: 40px;
   border: 6px solid rgb(156, 71, 32);
   color: rgb(255, 43, 213);
   background-color: rgb(184, 217, 75);
 }
 .becauseELetter {
-  font-size: 40px;
   border: 6px solid rgb(18, 17, 121);
   color: rgb(18, 17, 121);
   background-color: rgb(164, 175, 45);
 }
 .becauseCLetter {
-  font-size: 40px;
   border: 6px solid rgb(144, 144, 152);
   color: rgb(57, 136, 56);
   background-color: rgb(70, 178, 218);
 }
 .becauseALetter {
-  font-size: 40px;
   border: 6px solid rgb(122, 255, 222);
   color: rgb(184, 63, 195);
   background-color: rgb(191, 74, 38);
 }
 .becauseULetter {
-  font-size: 40px;
   border: 6px solid rgb(203, 69, 21);
   color: rgb(43, 48, 181);
   background-color: rgb(69, 70, 36);
 }
 .becauseSLetter {
-  font-size: 40px;
   border: 6px solid rgb(34, 226, 28);
   color: rgb(141, 61, 56);
   background-color: rgb(35, 51, 92);
 }
 .becauseETwoLetter {
-  font-size: 40px;
   border: 6px solid rgb(34, 226, 28);
   color: white;
   background-color: rgb(138, 40, 180);
@@ -423,26 +392,22 @@ body {
 /* THEY word */
 
 .theyTLetter {
-  font-size: 40px;
   border: 6px solid rgb(185, 225, 168);
   color: rgb(131, 192, 118);
   background-color: rgb(132, 227, 152);
 
 }
 .theyHLetter {
-  font-size: 40px;
   border: 6px solid rgb(142, 65, 80);
   color: rgb(66, 224, 31);
   background-color: rgb(168, 62, 95);
 }
 .theyELetter {
-  font-size: 40px;
   border: 6px solid rgb(39, 38, 101);
   color: rgb(224, 89, 40);
   background-color: rgb(204, 15, 225);
 }
 .theyYLetter {
-  font-size: 40px;
   border: 6px solid rgb(174, 48, 212);
   color: rgb(78, 170, 236);
   background-color: rgb(149, 221, 94);
@@ -451,14 +416,12 @@ body {
 /* WANTED word */
 
 .wantedWLetter {
-  font-size: 40px;
   border: 6px solid rgb(47, 123, 57);
   color: white;
   background-color: rgb(219, 211, 255);
   font-weight: 200;
 }
 .wantedALetter {
-  font-size: 40px;
   border: 6px solid rgb(20, 15, 74);
   color: rgb(20, 15, 74);
   background-color: rgb(197, 243, 159)
@@ -470,19 +433,16 @@ body {
   background-color: rgb(238, 2, 255)
 }
 .wantedTLetter {
-  font-size: 40px;
   border: 6px solid rgb(187, 105, 134);
   color: rgb(247, 228, 155);
   background-color: rgb(147, 208, 164)
 }
 .wantedELetter {
-  font-size: 40px;
   border: 6px solid rgb(72, 94, 194);
   color: rgb(140, 110, 58);
   background-color: rgb(219, 205, 195)
 }
 .wantedDLetter {
-  font-size: 40px;
   border: 6px solid rgb(255, 218, 245);
   color: rgb(78, 253, 110);
   background-color: rgb(216, 61, 255)
@@ -491,13 +451,11 @@ body {
 /* TO word */
 
 .toTLetter {
-  font-size: 40px;
   border: 6px solid rgb(244, 26, 255);
   color: rgb(78, 253, 168);
   background-color: rgb(216, 168, 227)
 }
 .toOLetter {
-  font-size: 40px;
   border: 6px solid rgb(222, 101, 228);
   color: rgb(193, 118, 99);
   background-color: rgb(240, 166, 182)
@@ -506,43 +464,36 @@ body {
 /* IMPROVE word */
 
 .improveILetter {
-  font-size: 40px;
   border: 6px solid rgb(234, 226, 67);
   color: rgb(99, 207, 191);
   background-color: rgb(93, 69, 228)
 }
 .improveMLetter {
-  font-size: 40px;
   border: 6px solid red;
   color: rgb(237, 221, 80);
   background-color: rgb(226, 205, 112);
 }
 .improvePLetter {
-  font-size: 40px;
   border: 6px solid rgb(255, 130, 52);
   color: yellow;
   background-color: rgb(232, 37, 173);
 }
 .improveRLetter {
-  font-size: 40px;
   border: 6px solid rgb(255, 21, 232);
   color: rgb(199, 117, 224);
   background-color: rgb(138, 70, 220);
 }
 .improveOLetter {
-  font-size: 40px;
   border: 6px solid rgb(20, 112, 127);
   color: rgb(55, 34, 147);
   background-color: rgb(67, 148, 206);
 }
 .improveVLetter {
-  font-size: 40px;
   border: 6px solid rgb(119, 90, 186);
   color: rgb(219, 141, 110);
   background-color: rgb(191, 187, 223);
 }
 .improveELetter {
-  font-size: 40px;
   border: 6px solid rgb(21, 255, 154);
   color: rgb(112, 93, 217);
   background-color: rgb(85, 70, 220);
@@ -551,20 +502,17 @@ body {
 /* THEIR word */
 
 .theirTLetter {
-  font-size: 40px;
   border: 6px solid rgb(237, 179, 165);
   color: white;
   background-color: rgb(124, 190, 191);
 }
 .theirHLetter {
-  font-size: 40px;
   border: 6px solid rgb(143, 87, 73);
   color: white;
   background-color: rgb(190, 19, 85);
 }
 
 .theirELetter {
-  font-size: 40px;
   border: 6px solid rgb(231, 79, 221);
   color: rgb(234, 168, 38);
   background-color: rgb(69, 175, 74);
@@ -576,7 +524,6 @@ body {
   background-color: rgb(120, 57, 179);
 }
 .theirRLetter {
-  font-size: 40px;
   border: 6px solid rgb(131, 25, 225);
   color: rgb(211, 202, 158);
   background-color: rgb(186, 0, 0);
@@ -585,26 +532,22 @@ body {
 /* ROOT word */
 
 .rootRLetter {
-  font-size: 40px;
   border: 6px solid rgb(38, 180, 54);
   color: rgb(196, 213, 94);
   background-color: rgb(23, 19, 96);
 }
 .rootOLetter {
-  font-size: 40px;
   border: 6px solid rgb(211, 177, 223);
   color: rgb(39, 141, 48);
   background-color: gold;
 }
 .rootOTwoLetter {
-  font-size: 40px;
   border: 6px solid rgb(120, 237, 138);
   color: rgb(43, 15, 15);
   background-color: rgb(221, 228, 113);
 
 }
 .rootTLetter {
-  font-size: 40px;
   border: 6px solid rgb(150, 78, 121);
   color: rgb(117, 149, 190);
   background-color: rgb(118, 151, 35);
@@ -613,31 +556,26 @@ body {
 /* SKILLS word */
 
 .skillsSLetter {
-  font-size: 40px;
   border: 6px solid rgb(79, 172, 124);
   color: gold;
   background-color: rgb(86, 130, 186);
 }
 .skillsKLetter {
-  font-size: 40px;
   border: 6px solid hotpink;
   color: rgb(255, 0, 85);
   background-color: rgb(223, 199, 146);
 }
 .skillsILetter {
-  font-size: 40px;
   border: 6px solid rgb(175, 138, 225);
   color: rgb(175, 138, 225);
   background-color: rgb(192, 117, 32);
 }
 .skillsLLetter {
-  font-size: 40px;
   border: 6px solid rgb(108, 141, 175);
   color: rgb(72, 189, 204);
   background-color: rgb(130, 224, 200);
 }
 .skillsLTwoLetter {
-  font-size: 40px;
   border: 6px solid rgb(170, 162, 220);
   color: gold;
   background-color: rgb(137, 229, 25)
@@ -652,19 +590,16 @@ body {
 /* SYMBOLS */
 
 .hyphen {
-  font-size: 40px;
   border: 6px solid rgb(117, 60, 202);
   color: rgb(236, 116, 103);
   background-color: rgb(130, 187, 30);
 }
 .exclamation-mark {
-  font-size: 40px;
   border: 6px solid rgb(232, 181, 170);
   color: white;
   background-color: rgb(189, 41, 212);
 }
 .question-mark {
-  font-size: 40px;
   border: 6px solid rgb(223, 200, 106);
   color: rgb(137, 72, 64);
   background-color: rgb(90, 99, 37);
